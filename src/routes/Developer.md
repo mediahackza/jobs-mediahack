@@ -22,7 +22,7 @@ MHC is looking for a self-motivated and creative mid-level front-end developer. 
 
 Projects are varied and require a level of creativity and design as well as a good understanding of data presentation. Please take a look at some of our [work examples](https://mediahack.co.za/category/work/) for an idea of the types of projects we work on.
 
-The position requires experience in modern front-end tools and practices including Javascript, Node, Svelte and services such as Vercel and Netlify. Most project will include libraries and frameworks like D3.js, Svelte and Leaflet.js.
+The position requires experience in modern front-end tools and practices including Javascript, Node, Svelte and services such as Vercel and Netlify. Most projects will include libraries and frameworks like D3.js, Svelte and Leaflet.js.
 
 Attention to detail and design skills are required, as is the ability to work with a small team of journalists and data analysts.
 
