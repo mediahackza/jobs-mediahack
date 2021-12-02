@@ -15,6 +15,9 @@
 			<div class="menu-item">
 				<a href="https://mediahack.co.za/category/work/" target="_blank">Our Work</a>
 			</div>
+			<div class="menu-item">
+				<a href="https://jobs.mediahack.co.za" target="_blank">Jobs</a>
+			</div>
 		</div>
 	</div>
 </div>
