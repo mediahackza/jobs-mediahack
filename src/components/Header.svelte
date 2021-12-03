@@ -1,10 +1,10 @@
 <script>
-	let headerImage;
+	let headerImage
 </script>
 
 <div class="header">
 	<div class="header-scheme">
-		<div class="header-logo">Media Hack</div>
+		<div class="header-logo"><a href="https://mediahack.co.za">Media Hack</a></div>
 		<div class="menu">
 			<div class="menu-item">
 				<a href="https://mediahack.co.za/what-we-do/" target="_blank">What we do</a>
@@ -35,17 +35,15 @@
 		padding: 15px 30px;
 		display: grid;
 		grid-template-columns: 1fr 5fr;
-		border-bottom: solid 1px lightgray;
-		-webkit-box-shadow: 0px 4px 5px 0px rgba(0, 0, 0, 0.12);
-		-moz-box-shadow: 0px 4px 5px 0px rgba(110, 10, 10, 0.12);
-		box-shadow: 0px 4px 5px 0px rgba(0, 0, 0, 0.12);
-		background: rgba(255, 255, 255, 0.856);
+
+		background: #000;
+		color: #fff;
 	}
 	.menu * {
 		display: inline-block;
 	}
 	.menu a {
-		color: black;
+		color: #fff;
 		text-decoration: none;
 	}
 	.menu a:hover {
@@ -56,5 +54,9 @@
 		text-transform: uppercase;
 		font-weight: 700;
 		font-size: 0.9rem;
+	}
+	.header-logo a {
+		color: #fff;
+		text-decoration: none;
 	}
 </style>
