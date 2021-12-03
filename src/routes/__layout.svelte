@@ -5,6 +5,10 @@
 	import CoverImage from '../components/CoverImage.svelte'
 </script>
 
+<svelte:head>
+	<title>Jobs @ Media Hack</title>
+</svelte:head>
+
 <Header />
 <CoverImage />
 <main>
