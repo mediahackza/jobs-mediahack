@@ -20,6 +20,9 @@ h6 {
 	font-family: 'Titillium Web', Arial, Helvetica, sans-serif;
 	font-weight: 700;
 }
+h1 {
+	/* color: indianred; */
+}
 main {
 	width: 90%;
 	max-width: 700px;
@@ -30,4 +33,10 @@ main {
 }
 hr {
 	border: solid 1px lightgray;
+}
+.arrow-icon {
+	/* background: red; */
+	/* padding-top: 20px;
+	padding-bottom: 30px; */
+	transform: translate(0, 20%);
 }

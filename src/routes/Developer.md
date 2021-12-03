@@ -1,6 +1,8 @@
 [Back to open positions](/)
 
-# Front-end Developer
+# Jobs @ Media Hack
+
+## Front-end Developer
 
 ### Position type:
 
