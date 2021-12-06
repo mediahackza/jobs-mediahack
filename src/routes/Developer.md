@@ -2,7 +2,7 @@
 
 # Jobs @ Media Hack
 
-## Front-end Developer
+## Front-end Developer/Designer
 
 ### Position type:
 
