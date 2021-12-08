@@ -2,37 +2,33 @@
 
 # Jobs @ Media Hack
 
-## Front-end Developer/Designer
+## Data Visualisation Developer/Designer
 
 ### Position type:
 
-Full time preferable, part-time with a view towards future full time an option.
+Full time.
 
 ### Location:
 
-Remote within South Africa.
+Remote within South Africa, or Johannesburg.
 
 ### Application deadline:
 
-15 December 2021
+17 December 2021
 
 ### Description
 
-[Media Hack Collective](https://mediahack.co.za) (MHC) is a media startup specialising in data analysis, visualisation and building products that empower news organisations.
+[Media Hack Collective](https://mediahack.co.za) (MHC) is a media startup specialising in data analysis, visualisation and building products that help organisations tell better stories with data. MHC is also the publisher of [The Outlier](https://theoutlier.co.za), a data journalism publication focused on Africa and South Africa.
 
-MHC is looking for a self-motivated and creative mid-level front-end developer. The right candidate will be expected to work on a range of front-end HTML/Javascript projects for both internal and client use.
+We're looking for a self-motivated, creative mid-level data visualisation developer. The right candidate will be expected to work on a range of front-end HTML/Javascript projects for both internal and client use.
 
-Projects are varied and require a level of creativity and design as well as a good understanding of data presentation. Please take a look at some of our [work examples](https://mediahack.co.za/category/work/) for an idea of the types of projects we work on.
+Projects are varied and require a high level of creativity and design as well as a good understanding of data presentation. Please take a look at some of our [work examples](https://mediahack.co.za/category/work/) for an idea of the types of projects we work on.
 
-The position requires experience in modern front-end tools and practices including Javascript, Node, Svelte and services such as Vercel and Netlify. Most projects will include libraries and frameworks like D3.js, Svelte and Leaflet.js.
+Strong knowledge of D3 and other data visualisation technologies is essential as well as experience in modern front-end tools like Node, Svelte and Vercel.
 
 Attention to detail and design skills are required, as is the ability to work with a small team of journalists and data analysts.
 
-**Note**: This is a remote position and you will need your own computer/laptop and a reliable internet connection.
-
-### Skills/experience
-
-A minimum of 2 to 4 years experience in the following is required:
+### Skills & experience required
 
     - HTML
     - CSS
@@ -40,27 +36,17 @@ A minimum of 2 to 4 years experience in the following is required:
     - A Javascript framework such as Svelte or Vue
     - Node
     - D3.js
-
-Day-to-day work will include the following:
-
-    - D3.js
-    - Svelte
     - Leaflet.js
 
 Experience in the following would be an advantage:
 
     - PHP
     - MySQL
-    - WordPress templating
+
+### Show and tell
+
+Send us examples of your work. CVs are all good and well but we really want to see what you're capable of and what you like working on.
 
 ### Applications
 
-Please send a copy of your CV and short covering letter to jobs@mediahack.co.za explaining why you think you're the right candidate for this position. Please include links to previous work as well as some description of what you consider to be your particular strengths (both in terms of development and personal traits).
-
-Where possible please include links to any public repositories (GitHub etc) where your work can be viewed as well as links to any profile sites you have built.
-
-We will contact you if we require any further information.
-
-### What we don't want
-
-We do not want to outsource this position to a company or developer service. Please do not send us propositions along these lines.
+The formalities: Send us a copy of your CV and short covering letter to jobs@mediahack.co.za explaining why you think you’re the right candidate for this position. Also, share examples of your work including links to any public repositories (GitHub etc) or sites where your work can be viewed.
